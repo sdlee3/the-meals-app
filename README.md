@@ -1,7 +1,7 @@
-# Guess A Number App
-## An Simple app to play a number guessing game with phone
+# The Meals App
+## An app that show different categories of meals
 ## Functionality of App
-- View categories of foods or meals
+- View categories of meals
 - View List of specific category of meals
 - View details about specific meal
 - Star and save favourite meal
