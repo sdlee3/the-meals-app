@@ -39,7 +39,7 @@
 </p>
 
 ```diff
-# Favourite Meal (Android & iOS)
+# Favourite Meals (Android & iOS)
 ```
 <p align="center">
 <img src="Screenshots/favourite-meal-android.png" width="320" height="550" />
@@ -47,7 +47,7 @@
 </p>
 
 ```diff
-# Filter Screen (Android & iOS)
+# Filter Meals (Android & iOS)
 ```
 <p align="center">
 <img src="Screenshots/filters-screen-android.png" width="320" height="550" />
